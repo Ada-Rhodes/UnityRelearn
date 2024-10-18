@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ada-rhodesshort\\Documents\\GitHub\\UnityRelearn\\HelloWorld\\Hello-World\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D839459B-E1A7-7120-E7ED-4C05D93DA7BE}|Assembly-CSharp.csproj|c:\\users\\ada-rhodesshort\\documents\\github\\unityrelearn\\helloworld\\hello-world\\assets\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D839459B-E1A7-7120-E7ED-4C05D93DA7BE}|Assembly-CSharp.csproj|solutionrelative:assets\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorld.cs",
+              "DocumentMoniker": "C:\\Users\\ada-rhodesshort\\Documents\\GitHub\\UnityRelearn\\HelloWorld\\Hello-World\\Assets\\HelloWorld.cs",
+              "RelativeDocumentMoniker": "Assets\\HelloWorld.cs",
+              "ToolTip": "C:\\Users\\ada-rhodesshort\\Documents\\GitHub\\UnityRelearn\\HelloWorld\\Hello-World\\Assets\\HelloWorld.cs",
+              "RelativeToolTip": "Assets\\HelloWorld.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:01:19.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
