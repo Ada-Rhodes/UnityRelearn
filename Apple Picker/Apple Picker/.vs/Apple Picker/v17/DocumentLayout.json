@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ada-rhodesshort\\Documents\\GitHub\\UnityRelearn\\Apple Picker\\Apple Picker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5F87869-CCA3-FA7C-CE6B-EC211EECCB4A}|Assembly-CSharp.csproj|c:\\users\\ada-rhodesshort\\documents\\github\\unityrelearn\\apple picker\\apple picker\\assets\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5F87869-CCA3-FA7C-CE6B-EC211EECCB4A}|Assembly-CSharp.csproj|C:\\Users\\ada-rhodesshort\\Documents\\GitHub\\UnityRelearn\\Apple Picker\\Apple Picker\\assets\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F87869-CCA3-FA7C-CE6B-EC211EECCB4A}|Assembly-CSharp.csproj|solutionrelative:assets\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F87869-CCA3-FA7C-CE6B-EC211EECCB4A}|Assembly-CSharp.csproj|c:\\users\\ada-rhodesshort\\documents\\github\\unityrelearn\\apple picker\\apple picker\\assets\\highscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F87869-CCA3-FA7C-CE6B-EC211EECCB4A}|Assembly-CSharp.csproj|solutionrelative:assets\\highscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5F87869-CCA3-FA7C-CE6B-EC211EECCB4A}|Assembly-CSharp.csproj|c:\\users\\ada-rhodesshort\\documents\\github\\unityrelearn\\apple picker\\apple picker\\assets\\applepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{C5F87869-CCA3-FA7C-CE6B-EC211EECCB4A}|Assembly-CSharp.csproj|C:\\Users\\ada-rhodesshort\\Documents\\GitHub\\UnityRelearn\\Apple Picker\\Apple Picker\\assets\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F87869-CCA3-FA7C-CE6B-EC211EECCB4A}|Assembly-CSharp.csproj|solutionrelative:assets\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F87869-CCA3-FA7C-CE6B-EC211EECCB4A}|Assembly-CSharp.csproj|C:\\Users\\ada-rhodesshort\\Documents\\GitHub\\UnityRelearn\\Apple Picker\\Apple Picker\\assets\\scorecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F87869-CCA3-FA7C-CE6B-EC211EECCB4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scorecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5F87869-CCA3-FA7C-CE6B-EC211EECCB4A}|Assembly-CSharp.csproj|C:\\Users\\ada-rhodesshort\\Documents\\GitHub\\UnityRelearn\\Apple Picker\\Apple Picker\\assets\\appletree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,8 +34,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HighScore.cs",
+              "DocumentMoniker": "C:\\Users\\ada-rhodesshort\\Documents\\GitHub\\UnityRelearn\\Apple Picker\\Apple Picker\\Assets\\HighScore.cs",
+              "RelativeDocumentMoniker": "Assets\\HighScore.cs",
+              "ToolTip": "C:\\Users\\ada-rhodesshort\\Documents\\GitHub\\UnityRelearn\\Apple Picker\\Apple Picker\\Assets\\HighScore.cs",
+              "RelativeToolTip": "Assets\\HighScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:24:44.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreCounter.cs",
+              "DocumentMoniker": "C:\\Users\\ada-rhodesshort\\Documents\\GitHub\\UnityRelearn\\Apple Picker\\Apple Picker\\Assets\\ScoreCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\ScoreCounter.cs",
+              "ToolTip": "C:\\Users\\ada-rhodesshort\\Documents\\GitHub\\UnityRelearn\\Apple Picker\\Apple Picker\\Assets\\ScoreCounter.cs",
+              "RelativeToolTip": "Assets\\ScoreCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:28:36.674Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,39 +69,39 @@
               "RelativeDocumentMoniker": "Assets\\Basket.cs",
               "ToolTip": "C:\\Users\\ada-rhodesshort\\Documents\\GitHub\\UnityRelearn\\Apple Picker\\Apple Picker\\Assets\\Basket.cs",
               "RelativeToolTip": "Assets\\Basket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T20:02:59.726Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ApplePicker.cs",
               "DocumentMoniker": "C:\\Users\\ada-rhodesshort\\Documents\\GitHub\\UnityRelearn\\Apple Picker\\Apple Picker\\Assets\\ApplePicker.cs",
               "RelativeDocumentMoniker": "Assets\\ApplePicker.cs",
               "ToolTip": "C:\\Users\\ada-rhodesshort\\Documents\\GitHub\\UnityRelearn\\Apple Picker\\Apple Picker\\Assets\\ApplePicker.cs",
               "RelativeToolTip": "Assets\\ApplePicker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T19:54:41.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Apple.cs",
               "DocumentMoniker": "C:\\Users\\ada-rhodesshort\\Documents\\GitHub\\UnityRelearn\\Apple Picker\\Apple Picker\\Assets\\Apple.cs",
               "RelativeDocumentMoniker": "Assets\\Apple.cs",
               "ToolTip": "C:\\Users\\ada-rhodesshort\\Documents\\GitHub\\UnityRelearn\\Apple Picker\\Apple Picker\\Assets\\Apple.cs",
               "RelativeToolTip": "Assets\\Apple.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T19:47:33.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AppleTree.cs",
               "DocumentMoniker": "C:\\Users\\ada-rhodesshort\\Documents\\GitHub\\UnityRelearn\\Apple Picker\\Apple Picker\\Assets\\AppleTree.cs",
               "RelativeDocumentMoniker": "Assets\\AppleTree.cs",
